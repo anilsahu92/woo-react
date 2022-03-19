@@ -2,7 +2,9 @@ import React from 'react'
 
 function About() {
     return (
-        <>about  us</>
+        <>about  us
+        <p>kbkjb  gyug gu guy</p>
+        </>
     )
 }
 
